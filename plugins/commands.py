@@ -29,7 +29,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url=TUT_LNK)
+                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url='https://t.me/YourDemandZone/105')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -58,7 +58,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url=TUT_LNK)
+                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url='https://t.me/YourDemandZone/105')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -107,7 +107,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url=TUT_LNK)
+                    InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url='https://t.me/YourDemandZone/105')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
