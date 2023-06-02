@@ -10,11 +10,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Pʀɪᴠᴀᴛᴇ
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ᴛʜɪs ʙᴏᴛ ɪs ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ʙʏ ᴍʀ.sᴘɪᴅʏ.
 - ꜱᴏᴜʀᴄᴇ - 𝕂𝕠𝕦𝕟𝕤𝕒 𝕊𝕠𝕦𝕣𝕔𝕖 𝕔𝕠𝕕𝕖 𝕓𝕔
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/Mr_SPIDY">Mʀ.Sᴘɪᴅʏ</a></b>"""
@@ -193,14 +193,9 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Cʀᴇᴀᴛᴏʀ :  <a href="https://t.me/Mr_Spidybot">Dᴍ</a>
-╰─────── • ◆ • ───────╯
-
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @YourDemandZone
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @YourDEmandSupport
+▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/YourDemandZone">YᴏᴜʀDᴇᴍᴀɴᴅZᴏɴᴇ</a>
+▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/YourDemandSupport">YᴏᴜʀDᴇᴍᴀɴᴅSᴜᴘᴘᴏʀᴛ</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
