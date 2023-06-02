@@ -57,6 +57,7 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
+TUT_LNK = environ.get('TUT_LNK', 'https://t.me/YourDemandZone/105')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/YourDemandSupport')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/YourDemandZone')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
