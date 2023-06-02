@@ -192,11 +192,11 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-=========== • ✠ • ===========
-▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/YourDemandZone">YᴏᴜʀDᴇᴍᴀɴᴅZᴏɴᴇ</a>
-▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/YourDemandSupport">YᴏᴜʀDᴇᴍᴀɴᴅSᴜᴘᴘᴏʀᴛ</a>
-=========== • ✠ • ===========</b>"""
+<b>
+============= • ✠ • =============
+▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/YourDemandZone">𝐘𝐃𝐙𝐨𝐧𝐞</a>
+▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/YourDemandSupport">𝐘𝐃𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+============= • ✠ • =============</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
