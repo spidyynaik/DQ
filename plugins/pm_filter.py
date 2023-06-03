@@ -1151,8 +1151,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
                     InlineKeyboardButton('Tᴜᴛᴏʀɪᴀʟ ☌', url='https://t.me/YourDemandZone/105')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
-                    InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data='money_bot')
+                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1244,24 +1243,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
-            reply_markup=reply_markup,
-            parse_mode=enums.ParseMode.HTML
-        )
-     elif query.data == "money_bot":
-        buttons = [[
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ sᴜᴘᴘᴏʀᴛ', url='https://t.me/Mr_Spidy')
-        ],[
-            InlineKeyboardButton('⇍ ʙᴀᴄᴋ', callback_data='start'),
-            InlineKeyboardButton('ᴄʟᴏsᴇ ⊝', callback_data='close_data')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await client.edit_message_media(
-            query.message.chat.id, 
-            query.message.id, 
-            InputMediaPhoto(random.choice(PICS))
-        )
-        await query.message.edit_text(
-            text=script.EARN_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )    
