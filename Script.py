@@ -227,25 +227,6 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /link - <code>Tᴏ ᴄʀᴇᴀᴛᴇ ᴀ sɪɴɢʟᴇ ғɪʟᴇ sᴛᴏʀᴇ ʟɪɴᴋ.</code>
 • /pbatch - <code>Jᴜsᴛ ʟɪᴋᴇ /batch, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇs ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴs.</code>
 • /plink - <code>Jᴜsᴛ ʟɪᴋᴇ /link, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.</code>"""
-
-    EARN_TXT = """
-<b>──────「 <a href='https://t.me/san_245'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
-
-Now You can start earning 💸 money today with our Simple and easy-to-use bot!
-
-›› Step 1: Add This bot to your group as an admin..
-
-›› Step 2: If you don't Using any shortner website then make account first on shorturllink.in (You can also use other link shortner website).
-
-›› Step 3: Copy your API from website and then, simply set your website and API Using the
-/set_shortner command
-
-› Like this :  /set_shortner <code>shorturllink.in b4d510e7b1e56da54f43c9e27569ee0a281121db</code>
-
-
-★ This bot will automatically converts links with Your Api and will provide your links.
-
-★ Don't wait any longer to start earning money from your telegram group. Add our bot today and start making money 💰!</b>"""
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
